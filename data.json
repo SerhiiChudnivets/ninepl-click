@@ -36,7 +36,9 @@
   "text_color": null,
   "color_highlight_text": null,
   "color_main_btn_text": null,
-  "logo": null,
+  "logo": {
+    "url": "/uploads/6559277a4a18f9f9d103171d3efd7b1d.png"
+  },
   "popup_logo": null,
   "main_background_img": null,
   "header_menu": null,
@@ -44,8 +46,8 @@
   "Slots": null,
   "Bonuses": null,
   "FAQ": null,
-  "_generated_at": "2026-04-29T14:24:10.002Z",
+  "_generated_at": "2026-04-29T15:45:37.015Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-29T14:24:10.555Z",
-  "_deploy_trigger": "1ylrb"
+  "_last_deploy": "2026-04-29T15:45:37.534Z",
+  "_deploy_trigger": "bwb9oj"
 }
