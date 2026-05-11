@@ -1,7 +1,7 @@
 {
   "name": "ninepl.click",
   "site_name": "ninepl.click",
-  "html_head": "<meta http-equiv=\"refresh\" content=\"3;url=https://www.mozilla.org\" />",
+  "html_head": "",
   "url": "ninepl.click",
   "template": "tupchiy",
   "language_code": "en",
@@ -57,8 +57,8 @@
   ],
   "Bonuses": null,
   "FAQ": null,
-  "_generated_at": "2026-05-11T21:53:50.996Z",
+  "_generated_at": "2026-05-11T21:56:55.917Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-05-11T21:53:51.787Z",
-  "_deploy_trigger": "2jdjaf"
+  "_last_deploy": "2026-05-11T21:56:56.534Z",
+  "_deploy_trigger": "qj8l5l"
 }
