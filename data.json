@@ -57,9 +57,15 @@
   "text_color": null,
   "color_highlight_text": null,
   "color_main_btn_text": null,
-  "logo": null,
-  "popup_logo": null,
-  "main_background_img": null,
+  "logo": {
+    "url": "/uploads/3980b33110a32661087df6239d4a53ec.png"
+  },
+  "popup_logo": {
+    "url": "/uploads/3980b33110a32661087df6239d4a53ec.png"
+  },
+  "main_background_img": {
+    "url": "/uploads/4a610fd39d1ec9e9dfebcd9487e7d296.jpg"
+  },
   "header_menu": [
     {
       "link": "#",
@@ -114,8 +120,8 @@
       "question": "question 2"
     }
   ],
-  "_generated_at": "2026-05-11T22:00:37.663Z",
+  "_generated_at": "2026-05-11T22:02:18.818Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-05-11T22:00:38.236Z",
-  "_deploy_trigger": "n4mfhr"
+  "_last_deploy": "2026-05-11T22:02:19.434Z",
+  "_deploy_trigger": "uhecnf"
 }
